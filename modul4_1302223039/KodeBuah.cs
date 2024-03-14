@@ -14,7 +14,7 @@ namespace modul4_1302223039
         }
         
 
-        public static string getKodeBuah(buah namaBuah) {
+        public string getKodeBuah(buah namaBuah) {
             string[] kode = { "A00", "B00", "C00", "D00", "E00", "F00", "H00", "I00", "J00" };
 
 
